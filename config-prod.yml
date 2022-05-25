@@ -1,4 +1,4 @@
-server:
-  port: 2222
+config:
+  info: "main branch,springcloud-config/config-prod.yml version=1 user=hja"
 
 #prod分支
