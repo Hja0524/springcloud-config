@@ -1,4 +1,4 @@
 config:
-  info: "main branch,springcloud-config/config-prod.yml version=1 user=hja"
+  info: "dev branch,springcloud-config/config-prod.yml version=1 user=hja"
 
 #prod分支
